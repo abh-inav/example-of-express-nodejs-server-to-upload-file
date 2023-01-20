@@ -1,6 +1,6 @@
 # example-of-express-nodejs-server-to-upload-file-server
-1  > npm init
-2  > npm-install-express
+# > npm init
+# > npm-install-express
 
 {
   "name": "npm-install-express",
@@ -21,7 +21,7 @@
   "license": "UNLICENSED"
 }
 
-3  > type nul > server.js
-4  > npm install express
-5  > npm-install-multer
-6  > npm install -g express-generator
+# > type nul > server.js
+# npm install express
+# npm-install-multer
+# npm install -g express-generator
