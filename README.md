@@ -25,3 +25,8 @@
 # npm install express
 # npm-install-multer
 # npm install -g express-generator
+# after running above written all command in cmd
+
+# copy the  code from server.js and paste it into your server file
+
+# and run (your_file_name).js
